@@ -1,0 +1,108 @@
+<?xml version="1.0" ?> 
+
+<library library_id="0.001" no_of_books="1023">
+
+<book>
+<book_id>10</book_id>  
+<name_of_the_book>Nothing by Chance</name_of_the_book>
+	<book_type>Novel</book_type>
+	<chapter_id>
+        <id>A1</id>
+		<name>chapter1</name>
+		<dbname>A SERIES</dbname>
+		<score>5.1e-95</score>
+  		<location> <start>100</start> <end>200</end> </location>	
+	</chapter_id> 
+</book>
+<book>
+<book_id>20</book_id> 
+<name_of_the_book>The Power of One</name_of_the_book> 
+	<book_type>Novel</book_type>
+	<chapter_id>
+        <id>B1</id>
+		<name>chapter1</name>
+		<dbname>B1 SERIES</dbname>
+		<score>3e-66</score>
+		<location> <start>10</start> <end>20</end> </location>
+	</chapter_id> 
+	
+	<chapter_id>
+        <id>B2</id>
+		<name>chapter2</name>
+		<dbname>B2 SERIES</dbname>
+		<score>1.2e-51</score>
+		<location> <start>20</start> <end>30</end> </location>
+	</chapter_id>
+</book>
+	
+<book> 
+<book_id>30</book_id>
+<name_of_the_book>The Last One</name_of_the_book>
+	<book_type>Novel</book_type>
+	<chapter_id>
+        <id>C1</id>
+		<name>chapter1</name> 
+		<dbname>C1 SERIES</dbname>
+		<score>00</score> 
+		<location> <start>25</start> <end>45</end> </location>
+	</chapter_id> 
+	
+	<chapter_id>
+        <id>C2</id>
+		<name>chapter2</name>
+		<dbname>C2 SERIES</dbname>
+		<score>0</score>
+		<location> <start>60</start> <end>97</end> </location>
+	</chapter_id> 
+		
+	<chapter_id>
+        <id>C3</id>
+		<name>chapter3</name>
+		<dbname>C3 SERIES</dbname>
+		<score>0</score>
+  		<location> <start>34</start> <end>789</end> </location>
+	</chapter_id> 
+</book>
+	
+<book>
+<book_id>40</book_id>	
+<name_of_the_book>Robin Hood</name_of_the_book> 
+	<book_type>story book</book_type>
+	<chapter_id>
+        <id>D1</id>
+		<name>chapter1</name> 
+		<dbname>D1 SERIES</dbname>
+		<score>8.1e-25</score> 
+  		<location> <start>700</start> <end>800</end> </location>
+	</chapter_id>
+
+	<chapter_id>
+        <id>D2</id>
+		<name>chapter2</name> 
+		<dbname>D2 SERIES</dbname>
+		<score>0</score> 
+  		<location> <start>200</start> <end>1000</end> </location>
+	</chapter_id>
+
+	
+	<chapter_id>
+        <id>D3</id>
+		<name>chapter3</name> 
+		<dbname>D3 SERIES</dbname>
+		<score>1.6e-92</score> 
+  		<location> <start>990</start> <end>1200</end> </location>
+	</chapter_id>
+
+	<chapter_id>
+        <id>D4</id>
+		<name>chapter4</name> 
+		<dbname>D4 SERIES</dbname>
+		<score>5.1e-25</score> 
+  		<location> <start>795</start> <end>850</end> </location>
+	</chapter_id>
+</book>
+
+</library>
+
+
+
